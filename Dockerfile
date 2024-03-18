@@ -1,4 +1,4 @@
-FROM quay.io/ansible/ansible-rulebook:v1.0.2
+FROM quay.io/ansible/ansible-rulebook:v1.0.6
 
 ENV SOURCE_DIR=/code
 
